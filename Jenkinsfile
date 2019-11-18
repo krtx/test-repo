@@ -7,8 +7,8 @@ pipeline {
         script {
           sh 'echo ok'
           sh 'echo no'
-          echo aiueo
-          echo bababa
+          echo 'aiueo'
+          echo 'bababa'
         }
       }
     }
