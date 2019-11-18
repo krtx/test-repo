@@ -7,6 +7,7 @@ pipeline {
         script {
           sh 'echo ok'
           sh 'echo no'
+          echo aiueo
         }
       }
     }
